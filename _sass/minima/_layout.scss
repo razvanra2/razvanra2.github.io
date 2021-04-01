@@ -22,7 +22,6 @@
     color: $grey-color-dark;
   }
 }
-
 .site-nav {
   margin-left: 30px;
   float: left;
@@ -192,8 +191,12 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 1.5em;
   }
+}
+
+.content{
+  margin-bottom: 3em;
 }
 
 .post-meta {
