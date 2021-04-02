@@ -28,7 +28,7 @@ You can browse all of my publicly available repositories on my [GitHub](https://
 
 ## Public Speaking
 I enjoy taking part in developers conferences, uni talks, jobs fair presentations and others.
-Below is an up-to-date list of my events latest presentations:
+Below is an up-to-date list of my latest presentations:
 - [2021] IT&C Fair: Software Engineering at Adobe. Recording available [here](https://www.youtube.com/watch?v=T9kICODy5go)
 - [2020] Proceedings of the 20th RoEduNet Conference. Paper available [here](https://ieeexplore.ieee.org/document/9324885)
 - [2020] Proceedings of SCSS UPB 2020. 1st Prize Award.
