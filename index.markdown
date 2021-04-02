@@ -34,6 +34,7 @@ Below is an up-to-date list of my latest presentations:
 - [2020] Proceedings of SCSS UPB 2020. 1st Prize Award.
 - [2019] Introduction to Azure Functions and Serverless Computing. Sources available [here](https://github.com/microsoft-dx/azure-functions-demo)
 - [2019] Introduction to Data Structures with .NET. Sources available [here](https://github.com/razvanra2/dotnet-training)
+- [2018] [Bike Back](https://innovationlabs.ro/teams/Bike%20Back). News report [here](https://stirileprotv.ro/ilikeit/smart-things/aplicatia-care-va-fluidiza-traficul-din-capitala-inventata-de-cativa-tineri-cum-functioneaza.html)
 
 ## Contact
 I reply pretty fast to my e-mail, I have the app on my phone.
