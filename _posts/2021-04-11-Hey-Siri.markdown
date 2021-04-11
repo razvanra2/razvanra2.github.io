@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Hey, Siri"
+date:   2021-04-11 22:04:00 +0300
+categories: Siri, Chatbot, Machine Learning
+---
+There are quite a few things that got me into AI/ML over the years, if I think about it.
+However, one of the first ones was Siri.
+
+I had an iPod touch 4th gen when Siri came out. If I remember right, it was days or possibly even hours before hackers
+figured out how to port Siri to unsupported devices through Proxy servers.
+If you also used to own old-school Apple devices, you might know that iPod 4th gen didn't have Siri out of the box.
+However, through Cydia, I got it working. It was amazing. I remember asking it lots of useless stuff, like how tall
+Obama was or what was the capital of France. Among those stupid questions, I remember asking Siri - "Hey Siri, how do you
+look like?"; to which _my hacked Siri_ responded "About 5ft5. And like the spitting image of Megan Fox".
+
+I understood pretty easily what was happening. I was proxying my calls to Siri through someone's server (yes, a privacy issue,
+but do you think a 15yo boy on his iPod touch cares?) - which meant the proxy server could intercept specific requests and
+answer with its custom data.
+
+That also gave me the intuition of how chat bots work. You speak your question/statement, the ML engine processes it
+and turns it into a machine-like request, which is in turn sent to a server. The server comes back with a response
+(usually a database query - ofc if not already hashed) and the answer is read aloud back to you.
+
+That was my intuition for many years, but I had no real clue how that was done in real life.
+Until this semester.
+
+I was tasked to do a group project where we have to build our own chatbot. I began this task by reading multiple papers,
+all based around the [MultiWOZ dataset](https://github.com/budzianowski/multiwoz).
+
+I was actually quite surprised to find out that my teenage intuition was not wrong at all. That's exactly how chat bots work!
+I read some 5-6 papers on the topic (see the table on the MultiWOZ GitHub page for End-to-End Modelling) and noticed that,
+save for the actual math behind picking answers and the actual ML framework that processes the human interaction,
+chat bots are all pretty much the same. Not to take anything back from the sheer complexity of those two components above -
+they're both incredible displays of advanced engineering that differentiate good chat bots from amazing ones, BUT behind that,
+all chat bots do the same thing:
+1. process the human speech request - this is usually done through an advanced ML/AI tool - I've seen seq2seq adaptations often
+2. send a request back to a server
+3. query a database
+4. build a response through readily available templates - something like "I found [X] [place_type] in the
+5. [geographic_coordinate] of [city_name]. [place_name] has the best ranking - [actual_ranking]. Should I book a table?"
+6. Read the response back to the human
+7. repeat 1-6 based on interaction and complexity levels.
+
+
+
+
+
+
