@@ -40,7 +40,6 @@ all chat bots do the same thing:
 4. build a response through readily available templates - something like "I found [X] [place_type] in the [geographic_coordinate] of [city_name]. [place_name] has the best ranking - [actual_ranking]. Should I book a table?"
 5. Read the response back to the human
 6. repeat 1-6 based on interaction and complexity levels.
-
 If you want to read more about this, as I said, [here](https://github.com/budzianowski/multiwoz) is a great place to start.
 My favorite paper out of the ones I got to read was [SimpleTOD by researchers at Salesforce](https://arxiv.org/pdf/2005.00796.pdf).
 
