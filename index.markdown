@@ -8,7 +8,7 @@ layout: page
 
 I am a Software Engineer at [Google](https://https://www.google.com/).
 I graduated from [Poli](https://upb.ro/) with a MS in Artificial Intelligence in 2022 and a BS in Computer Science in 2020.
-I am passionate about maps, racing & reinforcement learning.
+I am passionate about maps, motorsport racing & reinforcement learning.
 
 ## Previous Work
 I worked at [Adobe](https://https://www.adobe.com/) from 2020 to 2022, as a Software Development Engineer -> Computer Scientist, working on [Creative Cloud](https://www.adobe.com/creativecloud.html) products and features.
