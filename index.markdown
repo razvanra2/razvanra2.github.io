@@ -7,6 +7,7 @@ layout: page
 ---
 
 I am a Software Engineer at [Google](https://www.google.com/).
+
 I graduated from [Politehnica](https://upb.ro/) with a MS in Artificial Intelligence in 2022 and a BS in Computer Science in 2020.
 I am passionate about maps, motorsport racing & reinforcement learning.
 
