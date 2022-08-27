@@ -11,7 +11,7 @@ I graduated from [Politehnica](https://upb.ro/) with a MS in Artificial Intellig
 I am passionate about maps, motorsport racing & reinforcement learning.
 
 ## Previous Work
-I worked at [Adobe](https://https://www.adobe.com/) from 2020 to 2022, as a Software Development Engineer -> Computer Scientist, working on [Creative Cloud](https://www.adobe.com/creativecloud.html) products and features.
+I worked at [Adobe](https://https://www.adobe.com/) from 2020 to 2022, as a SDE -> Computer Scientist, working on [Creative Cloud](https://www.adobe.com/creativecloud.html) products and features.
 I worked at [Microsoft](https://https://www.microsoft.com/) from 2018 to 2020, as a Software Engineer, developing [Bing Maps](https://bing.com/maps), helping improve traffic-related features, experimenting with Cortana and trying out mobile development.
 
 ## Publications
